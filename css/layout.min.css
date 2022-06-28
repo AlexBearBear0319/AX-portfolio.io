@@ -314,7 +314,7 @@ h3, h4 {
     overflow: hidden; 
     
     /* The typwriter cursor */
-    border-right: .15em solid white; 
+    border-right: .20em solid white; 
 
     /* Keeps the content on a single line */
     white-space: nowrap; 
