@@ -292,6 +292,15 @@ h3, h4 {
     line-height: 1
 }
 
+.promo-block #typedtext {
+    font-family: 'Waiting for the Sunrise', cursive; 
+    color: #fff;
+    font-size:30px; 
+    margin: 10px 50px; 
+    letter-spacing: 6px; 
+    font-weight: bold;
+}
+
 @media (max-width:480px) {
     .promo-block .promo-block-title {
         font-size: 50px
